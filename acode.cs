@@ -13,7 +13,7 @@ public class Test
 		}
 	}
 	
-  //Tabulation
+  	//Tabulation
 	static int DecodeTabu(string s)
 	{
 		//Check string is valid:
@@ -29,7 +29,7 @@ public class Test
 		{	
 			if (s[i] == '0')
 			{
-        //Check string is valid:
+        			//Check string is valid:
 				if ((s[i-1] == '0') || (s[i-1] - '0' > 2))	
 					return 0;
 				dp[i-1] = dp[i-2];
