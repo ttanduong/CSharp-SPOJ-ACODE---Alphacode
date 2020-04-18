@@ -30,12 +30,17 @@ For each input set, output the number of possible decodings for the input string
 > ###### Input:
 > 
 > 25114
+>
 > 1111111111
+>
 > 3333333333
+>
 > 0
 > 
 > ###### Output:
-
+>
 > 6
+>
 > 89
+>
 > 1
