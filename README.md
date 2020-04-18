@@ -1,6 +1,6 @@
 # ACODE - Alphacode
 
-Link: https://www.spoj.com/problems/ACODE/
+Link to SPOJ (https://www.spoj.com/problems/ACODE/)
 
 # Description
 Alice and Bob need to send secret messages to each other and are discussing ways to encode their messages:
