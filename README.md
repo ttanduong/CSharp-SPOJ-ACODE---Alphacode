@@ -27,4 +27,15 @@ Input will consist of multiple input sets. Each set will consist of a single lin
 
 For each input set, output the number of possible decodings for the input string. All answers will be within the range of a 64 bit signed integer.
 ### Example
+> ###### Input:
+> 
+> 25114
+> 1111111111
+> 3333333333
+> 0
+> 
+> ###### Output:
 
+> 6
+> 89
+> 1
